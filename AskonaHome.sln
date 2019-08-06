@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskonaHome", "AskonaHome\AskonaHome.csproj", "{FB916163-36CD-48AE-BC75-E448E2CD1243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB916163-36CD-48AE-BC75-E448E2CD1243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB916163-36CD-48AE-BC75-E448E2CD1243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB916163-36CD-48AE-BC75-E448E2CD1243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB916163-36CD-48AE-BC75-E448E2CD1243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B663C19B-289A-4EEC-B17C-01BEA5F26839}
+	EndGlobalSection
+EndGlobal
